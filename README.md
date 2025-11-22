@@ -178,4 +178,4 @@ g++ example.cpp -o example -I./include
 
 ## License
 
-This project is provided as-is for educational and commercial use.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
